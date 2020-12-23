@@ -1,4 +1,4 @@
-# garch-vix
+# Comparison of Different GARCH-Models with the VIX
 
 ### Summary
 
