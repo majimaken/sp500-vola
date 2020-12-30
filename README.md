@@ -10,6 +10,18 @@ Since the global Covid19 pandemic broke out in the first quarter of 2020, it has
 
 ![Scatterplot showing the relationship between VIX changes (x-axis) and S&P500 returns (y-axis)](https://github.com/majimaken/garch-vix/blob/main/vix_return.jpeg)
 
+## Model Formulation
+
+We exaxime four different time series models that allow heteroskedasticity in order to predict volatility. Besides the traditional GARCH model, we look at GJR-GARCH and Beta-t-EGARCH, which allows for an asymmetric reaction to positive and negative shocks. Finally, we discuss the two-component Beta-t-EGARCH, which allows for short- and longterm volatility. 
+
+### Standard GARCH Model
+
+
+
+## Data Prep
+
+
+
 ## Last words
 
 Last but not least, it should be mentioned that this work has been developed in collaboration with my colleague S.G.. The work should serve to apply the learned methods of the module "Financial Econometrics" of Sungkyunkwan University. 
